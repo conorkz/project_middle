@@ -1,4 +1,4 @@
-# Тестовое задание web-программист Python (Middle) (2024)
+# Python Docker
 ## Необходимыe endpoint-ы и методы которые не хватают:
 - DELETE /api/routes/{id}: удаление маршрута
 - GET /api/routes: получение списка всех маршрутов
